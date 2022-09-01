@@ -2,3 +2,8 @@
 	path = juancorreaxsmarts/l10n_do_v15
 	url = git@github.com:juancorreaxsmarts/l10n_do_v15.git
 	branch = main
+
+[submodule "xmarts/l10n_do_rnc_search"]
+	path = xmarts/l10n_do_rnc_search
+	url = git@github.com:xmarts/l10n_do_rnc_search.git
+	branch = 15.0
